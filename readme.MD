@@ -4,7 +4,7 @@
 </p>
 Go, often referred to as Golang, is an open-source programming language developed by Google. It was created by Robert Griesemer, Rob Pike, and Ken Thompson and first released in 2009. Go is designed to be simple, efficient, and easy to use, with a focus on readability and maintainability of code.
 
-Key features of Go include:
+**Key features of Go include**:
 
 Conciseness: Go aims to minimize the amount of code needed to express concepts, making it concise and readable. It achieves this by avoiding unnecessary syntax and features.
 
